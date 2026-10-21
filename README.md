@@ -223,4 +223,4 @@ Orcs Must Die! is offered as a complete free version with all features and updat
 Get ready to unleash your inner warrior! Download Orcs Must Die! now and start defending your fortress against the orc invasion!
 
 ---
-**Last updated:** 2026-10-21 07:11:23 UTC
+**Last updated:** 2026-10-21 13:31:51 UTC
